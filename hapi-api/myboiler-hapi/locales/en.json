@@ -1,0 +1,20 @@
+{
+	"genericErrMsg": {
+		"200": "Success.",
+		"401": "Refresh Token Expired or BlackListed, Please Login Again.",
+		"403": "Invalid Call, Access Token is not Expired.",
+		"404": "Data you have requsted is Not Found.",
+		"406": "Invalid Call, Access Token Expired.",
+		"417": "Invalid Refresh Token Passed.",
+		"500": "Internal Server Error."
+	},
+	"apiDescription": {
+		"userLogin": "API is use to sync data between app server to auth server and receive access token and refresh token.",
+		"userGet": "API is use to get user details.",
+		"userDeleteRefresh": "API is use to blacklist refresh token of user.",
+		"userActivateRefresh": "API is use to activate refresh token of user.",
+		"userDelete": "API is use to delete user.",
+		"userAccessToken": "API is use to get a new access token from refresh token.",
+		"appEvent":"API is use to take event for access and refresh token expiry"
+	}
+}
