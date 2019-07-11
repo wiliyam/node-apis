@@ -1,4 +1,0 @@
-{
-    "name":"My Express App",
-    "dbUrl": "mongodb+srv://wiliyam:9909615234@cluster0-ttamt.mongodb.net/test?retryWrites=true&w=majority"
-}

@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "1234",
+  "dbMode":"test",
+  "dbUrl":"mongodb://localhost:27017",
+  "cookiePrivateKey":"ahsjudiosldkdjhvyudidopslmckjsjsuudtsghsj"
+}
