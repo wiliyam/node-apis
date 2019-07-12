@@ -1,7 +1,0 @@
-{
-  "jwtPrivateKey": "AUTH_JWT_KEY",
-  "cookiePrivateKey":"AUTH_COOKIE_KEY",
-  "processType":"AUTH_PROCESS_TYPE",
-  "nodeEnvironment":"AUTH_NODE_ENV"
-
-}
